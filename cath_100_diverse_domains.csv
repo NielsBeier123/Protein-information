@@ -1,0 +1,104 @@
+domain_id,pdb_id,chain,superfamily,superfamily_name,topology,C,A,T,H,length,resolution,sf_domain_count,cath_url,pdb_url
+2r44A03,2r44,A,1.10.8.80,":Magnesium chelatase subunit I, C-Terminal domain",1.10.8,1,10,8,80,117.0,2.0,38,https://www.cathdb.info/version/v4_3_0/domain/2r44A03,https://www.rcsb.org/structure/2R44
+6k61f00,6k61,f,1.10.8.110,":Photosystem I, reaction centre, subunit PsaF",1.10.8,1,10,8,110,141.0,2.37,17,https://www.cathdb.info/version/v4_3_0/domain/6k61f00,https://www.rcsb.org/structure/6K61
+4p17A02,4p17,A,1.10.8.270,:putative rabgap domain of human tbc1 domain family member 14 like domains,1.10.8,1,10,8,270,110.0,1.79,10,https://www.cathdb.info/version/v4_3_0/domain/4p17A02,https://www.rcsb.org/structure/4P17
+2qcuA03,2qcu,A,1.10.8.870,":Alpha-glycerophosphate oxidase, cap domain",1.10.8,1,10,8,870,71.0,1.75,14,https://www.cathdb.info/version/v4_3_0/domain/2qcuA03,https://www.rcsb.org/structure/2QCU
+1svmF01,1svm,F,1.10.10.510,":Zinc finger, large T-antigen D1 domain",1.10.10,1,10,10,510,90.0,1.94,57,https://www.cathdb.info/version/v4_3_0/domain/1svmF01,https://www.rcsb.org/structure/1SVM
+6az1V01,6az1,V,1.10.60.20,:Ribosomal protein S17,1.10.60,1,10,60,20,61.0,2.7,8,https://www.cathdb.info/version/v4_3_0/domain/6az1V01,https://www.rcsb.org/structure/6AZ1
+3p9aA00,3p9a,A,1.10.132.80,:,1.10.132,1,10,132,80,139.0,1.76,9,https://www.cathdb.info/version/v4_3_0/domain/3p9aA00,https://www.rcsb.org/structure/3P9A
+7wf8B01,7wf8,B,1.10.167.10,":Regulator of G-protein Signalling 4, domain 2",1.10.167,1,10,167,10,121.0,1.35,82,https://www.cathdb.info/version/v4_3_0/domain/7wf8B01,https://www.rcsb.org/structure/7WF8
+4fhrB01,4fhr,B,1.10.220.30,":Flagellar motor switch protein FliG, alpha-alpha superhelical domain",1.10.220,1,10,220,30,116.0,1.93,21,https://www.cathdb.info/version/v4_3_0/domain/4fhrB01,https://www.rcsb.org/structure/4FHR
+3fymA00,3fym,A,1.10.260.40,:lambda repressor-like DNA-binding domains,1.10.260,1,10,260,40,82.0,1.0,591,https://www.cathdb.info/version/v4_3_0/domain/3fymA00,https://www.rcsb.org/structure/3FYM
+3a9zA02,3a9z,A,1.10.260.50,:,1.10.260,1,10,260,50,90.0,1.55,12,https://www.cathdb.info/version/v4_3_0/domain/3a9zA02,https://www.rcsb.org/structure/3A9Z
+3u4qA02,3u4q,A,1.10.274.50,:,1.10.274,1,10,274,50,150.0,2.8,5,https://www.cathdb.info/version/v4_3_0/domain/3u4qA02,https://www.rcsb.org/structure/3U4Q
+2f23B01,2f23,B,1.10.287.180,":Transcription elongation factor, GreA/GreB, N-terminal domain",1.10.287,1,10,287,180,75.0,1.6,16,https://www.cathdb.info/version/v4_3_0/domain/2f23B01,https://www.rcsb.org/structure/2F23
+4ogqB02,4ogq,B,1.10.287.980,:plastocyanin oxidoreductase,1.10.287,1,10,287,980,94.0,2.5,12,https://www.cathdb.info/version/v4_3_0/domain/4ogqB02,https://www.rcsb.org/structure/4OGQ
+4ar9A02,4ar9,A,1.10.390.20,:,1.10.390,1,10,390,20,142.0,1.69,7,https://www.cathdb.info/version/v4_3_0/domain/4ar9A02,https://www.rcsb.org/structure/4AR9
+1d5tA03,1d5t,A,1.10.405.10,":Guanine Nucleotide Dissociation Inhibitor, domain 1",1.10.405,1,10,405,10,105.0,1.04,182,https://www.cathdb.info/version/v4_3_0/domain/1d5tA03,https://www.rcsb.org/structure/1D5T
+3we0A03,3we0,A,1.10.405.40,:,1.10.405,1,10,405,40,137.0,1.9,12,https://www.cathdb.info/version/v4_3_0/domain/3we0A03,https://www.rcsb.org/structure/3WE0
+6eniA00,6eni,A,1.10.1270.10,:TrpR-like,1.10.1270,1,10,1270,10,104.0,1.1,67,https://www.cathdb.info/version/v4_3_0/domain/6eniA00,https://www.rcsb.org/structure/6ENI
+5nrmB00,5nrm,B,1.10.1330.10,:Dockerin domain,1.10.1330,1,10,1330,10,66.0,1.4,33,https://www.cathdb.info/version/v4_3_0/domain/5nrmB00,https://www.rcsb.org/structure/5NRM
+2pusA05,2pus,A,1.10.1740.80,:,1.10.1740,1,10,1740,80,80.0,2.4,5,https://www.cathdb.info/version/v4_3_0/domain/2pusA05,https://www.rcsb.org/structure/2PUS
+4y99C01,4y99,C,1.20.5.350,":Troponin complex, TnI/TnT subunit",1.20.5,1,20,5,350,108.0,2.0,12,https://www.cathdb.info/version/v4_3_0/domain/4y99C01,https://www.rcsb.org/structure/4Y99
+1l2pA00,1l2p,A,1.20.5.620,":F1F0 ATP synthase subunit B, membrane domain",1.20.5,1,20,5,620,61.0,1.55,7,https://www.cathdb.info/version/v4_3_0/domain/1l2pA00,https://www.rcsb.org/structure/1L2P
+3qflA00,3qfl,A,1.20.5.4130,:,1.20.5,1,20,5,4130,108.0,2.0,6,https://www.cathdb.info/version/v4_3_0/domain/3qflA00,https://www.rcsb.org/structure/3QFL
+2vqeT00,2vqe,T,1.20.58.110,:Ribosomal protein S20,1.20.58,1,20,58,110,99.0,2.5,83,https://www.cathdb.info/version/v4_3_0/domain/2vqeT00,https://www.rcsb.org/structure/2VQE
+3zylA02,3zyl,A,1.20.58.150,:ANTH domain,1.20.58,1,20,58,150,118.0,1.7,13,https://www.cathdb.info/version/v4_3_0/domain/3zylA02,https://www.rcsb.org/structure/3ZYL
+3puaA02,3pua,A,1.20.58.1360,:,1.20.58,1,20,58,1360,79.0,1.89,38,https://www.cathdb.info/version/v4_3_0/domain/3puaA02,https://www.rcsb.org/structure/3PUA
+2j9wB00,2j9w,B,1.20.120.1130,:Vps28 C-terminal domain,1.20.120,1,20,120,1130,99.0,1.3,12,https://www.cathdb.info/version/v4_3_0/domain/2j9wB00,https://www.rcsb.org/structure/2J9W
+5knhI00,5knh,I,1.20.1250.10,:,1.20.1250,1,20,1250,10,97.0,1.6,255,https://www.cathdb.info/version/v4_3_0/domain/5knhI00,https://www.rcsb.org/structure/5KNH
+3o3mB01,3o3m,B,1.20.1270.370,:,1.20.1270,1,20,1270,370,103.0,1.82,5,https://www.cathdb.info/version/v4_3_0/domain/3o3mB01,https://www.rcsb.org/structure/3O3M
+1mtyH02,1mty,H,1.20.1280.30,":Methane monooxygenase, gamma chain, domain 2",1.20.1280,1,20,1280,30,73.0,1.7,60,https://www.cathdb.info/version/v4_3_0/domain/1mtyH02,https://www.rcsb.org/structure/1MTY
+2vj4B03,2vj4,B,1.20.1280.240,:,1.20.1280,1,20,1280,240,105.0,2.5,7,https://www.cathdb.info/version/v4_3_0/domain/2vj4B03,https://www.rcsb.org/structure/2VJ4
+2iw3B02,2iw3,B,1.20.1390.20,:,1.20.1390,1,20,1390,20,89.0,2.4,6,https://www.cathdb.info/version/v4_3_0/domain/2iw3B02,https://www.rcsb.org/structure/2IW3
+4dk2A01,4dk2,A,1.20.1680.10,:Type II deoxyuridine triphosphatase,1.20.1680,1,20,1680,10,115.0,1.47,16,https://www.cathdb.info/version/v4_3_0/domain/4dk2A01,https://www.rcsb.org/structure/4DK2
+2nszA00,2nsz,A,1.25.40.180,:,1.25.40,1,25,40,180,129.0,1.15,19,https://www.cathdb.info/version/v4_3_0/domain/2nszA00,https://www.rcsb.org/structure/2NSZ
+4bx8A04,4bx8,A,1.25.40.850,":Sec1/Munc18 (SM) protein, domain 3b",1.25.40,1,25,40,850,92.0,2.4,12,https://www.cathdb.info/version/v4_3_0/domain/4bx8A04,https://www.rcsb.org/structure/4BX8
+3k2zB02,3k2z,B,2.10.109.10,":Umud Fragment, subunit A",2.10.109,2,10,109,10,119.0,1.37,85,https://www.cathdb.info/version/v4_3_0/domain/3k2zB02,https://www.rcsb.org/structure/3K2Z
+1z03F02,1z03,F,2.20.25.680,:,2.20.25,2,20,25,680,61.0,1.8,18,https://www.cathdb.info/version/v4_3_0/domain/1z03F02,https://www.rcsb.org/structure/1Z03
+2vhjA02,2vhj,A,2.30.270.20,:,2.30.270,2,30,270,20,62.0,1.8,69,https://www.cathdb.info/version/v4_3_0/domain/2vhjA02,https://www.rcsb.org/structure/2VHJ
+2vbuA01,2vbu,A,2.40.30.30,:Riboflavin kinase-like,2.40.30,2,40,30,30,130.0,1.7,46,https://www.cathdb.info/version/v4_3_0/domain/2vbuA01,https://www.rcsb.org/structure/2VBU
+6f2mA02,6f2m,A,2.40.30.290,:,2.40.30,2,40,30,290,87.0,1.8,12,https://www.cathdb.info/version/v4_3_0/domain/6f2mA02,https://www.rcsb.org/structure/6F2M
+4hmjA00,4hmj,A,2.40.50.90,:,2.40.50,2,40,50,90,129.0,1.35,330,https://www.cathdb.info/version/v4_3_0/domain/4hmjA00,https://www.rcsb.org/structure/4HMJ
+1twfB07,1twf,B,2.40.50.150,":RNA polymerase II, Rpb2 subunit, wall domain",2.40.50,2,40,50,150,124.0,2.3,211,https://www.cathdb.info/version/v4_3_0/domain/1twfB07,https://www.rcsb.org/structure/1TWF
+4uhvB04,4uhv,B,2.40.50.230,:Gp5 N-terminal domain,2.40.50,2,40,50,230,102.0,2.0,14,https://www.cathdb.info/version/v4_3_0/domain/4uhvB04,https://www.rcsb.org/structure/4UHV
+6rflO03,6rfl,O,2.40.50.830,:,2.40.50,2,40,50,830,146.0,2.76,8,https://www.cathdb.info/version/v4_3_0/domain/6rflO03,https://www.rcsb.org/structure/6RFL
+1eaqA00,1eaq,A,2.60.40.720,:,2.60.40,2,60,40,720,121.0,1.25,41,https://www.cathdb.info/version/v4_3_0/domain/1eaqA00,https://www.rcsb.org/structure/1EAQ
+2x9zA01,2x9z,A,2.60.40.740,:,2.60.40,2,60,40,740,148.0,1.3,25,https://www.cathdb.info/version/v4_3_0/domain/2x9zA01,https://www.rcsb.org/structure/2X9Z
+3tewA04,3tew,A,2.60.40.810,:,2.60.40,2,60,40,810,131.0,1.45,36,https://www.cathdb.info/version/v4_3_0/domain/3tewA04,https://www.rcsb.org/structure/3TEW
+3m86B00,3m86,B,2.60.40.2020,:,2.60.40,2,60,40,2020,104.0,1.65,14,https://www.cathdb.info/version/v4_3_0/domain/3m86B00,https://www.rcsb.org/structure/3M86
+3sd2A01,3sd2,A,2.60.40.3080,:,2.60.40,2,60,40,3080,75.0,1.4,5,https://www.cathdb.info/version/v4_3_0/domain/3sd2A01,https://www.rcsb.org/structure/3SD2
+2vvfF02,2vvf,F,2.60.120.730,:,2.60.120,2,60,120,730,128.0,2.5,12,https://www.cathdb.info/version/v4_3_0/domain/2vvfF02,https://www.rcsb.org/structure/2VVF
+4ku0D00,4ku0,D,2.60.200.60,:,2.60.200,2,60,200,60,96.0,1.15,6,https://www.cathdb.info/version/v4_3_0/domain/4ku0D00,https://www.rcsb.org/structure/4KU0
+3tcqA02,3tcq,A,2.60.510.10,:EV matrix protein,2.60.510,2,60,510,10,89.0,1.6,10,https://www.cathdb.info/version/v4_3_0/domain/3tcqA02,https://www.rcsb.org/structure/3TCQ
+3facH00,3fac,H,2.170.150.70,:,2.170.150,2,170,150,70,108.0,2.5,8,https://www.cathdb.info/version/v4_3_0/domain/3facH00,https://www.rcsb.org/structure/3FAC
+4wkaA02,4wka,A,3.10.50.10,:,3.10.50,3,10,50,10,69.0,0.95,309,https://www.cathdb.info/version/v4_3_0/domain/4wkaA02,https://www.rcsb.org/structure/4WKA
+1vqqA01,1vqq,A,3.10.450.100,:NTF2-like; domain 1,3.10.450,3,10,450,100,109.0,1.8,60,https://www.cathdb.info/version/v4_3_0/domain/1vqqA01,https://www.rcsb.org/structure/1VQQ
+5d1pA01,5d1p,A,3.10.450.740,:,3.10.450,3,10,450,740,67.0,2.2,6,https://www.cathdb.info/version/v4_3_0/domain/5d1pA01,https://www.rcsb.org/structure/5D1P
+1vr6A01,1vr6,A,3.30.70.1140,:Phospho-2-dehydro-3-deoxyheptonate aldolase; domain 1,3.30.70,3,30,70,1140,75.0,1.92,18,https://www.cathdb.info/version/v4_3_0/domain/1vr6A01,https://www.rcsb.org/structure/1VR6
+2y8yA01,2y8y,A,3.30.70.1200,:Crispr-associated protein; domain 1,3.30.70,3,30,70,1200,86.0,1.44,20,https://www.cathdb.info/version/v4_3_0/domain/2y8yA01,https://www.rcsb.org/structure/2Y8Y
+1yj7B01,1yj7,B,3.30.70.1530,:Hypothetical protein rpa1041,3.30.70,3,30,70,1530,71.0,1.8,18,https://www.cathdb.info/version/v4_3_0/domain/1yj7B01,https://www.rcsb.org/structure/1YJ7
+7c51A01,7c51,A,3.30.70.2970,":Protein of unknown function (DUF541), domain 2",3.30.70,3,30,70,2970,111.0,2.46,5,https://www.cathdb.info/version/v4_3_0/domain/7c51A01,https://www.rcsb.org/structure/7C51
+2iruA02,2iru,A,3.30.70.3300,:,3.30.70,3,30,70,3300,138.0,1.65,13,https://www.cathdb.info/version/v4_3_0/domain/2iruA02,https://www.rcsb.org/structure/2IRU
+3df6B00,3df6,B,3.30.160.300,:,3.30.160,3,30,160,300,97.0,2.05,7,https://www.cathdb.info/version/v4_3_0/domain/3df6B00,https://www.rcsb.org/structure/3DF6
+6wlcA01,6wlc,A,3.30.160.820,:Nsp15 N-terminal domain-like,3.30.160,3,30,160,820,65.0,1.82,37,https://www.cathdb.info/version/v4_3_0/domain/6wlcA01,https://www.rcsb.org/structure/6WLC
+6fl8B01,6fl8,B,3.30.200.110,":Inositol-pentakisphosphate 2-kinase, N-lobe",3.30.200,3,30,200,110,148.0,2.1,29,https://www.cathdb.info/version/v4_3_0/domain/6fl8B01,https://www.rcsb.org/structure/6FL8
+2d1sA04,2d1s,A,3.30.300.30,":ANL, C-terminal domain",3.30.300,3,30,300,30,106.0,1.3,298,https://www.cathdb.info/version/v4_3_0/domain/2d1sA04,https://www.rcsb.org/structure/2D1S
+5bmnA04,5bmn,A,3.30.310.50,":Alpha-D-phosphohexomutase, C-terminal domain",3.30.310,3,30,310,50,83.0,1.27,115,https://www.cathdb.info/version/v4_3_0/domain/5bmnA04,https://www.rcsb.org/structure/5BMN
+7om3A01,7om3,A,3.30.342.10,":DNA Polymerase, chain B, domain 1",3.30.342,3,30,342,10,123.0,1.92,77,https://www.cathdb.info/version/v4_3_0/domain/7om3A01,https://www.rcsb.org/structure/7OM3
+3nd1A02,3nd1,A,3.30.950.10,":Tetrapyrrole methylase, C-terminal domain",3.30.950,3,30,950,10,110.0,1.5,69,https://www.cathdb.info/version/v4_3_0/domain/3nd1A02,https://www.rcsb.org/structure/3ND1
+2g2sA00,2g2s,A,3.30.1300.40,:,3.30.1300,3,30,1300,40,64.0,1.2,16,https://www.cathdb.info/version/v4_3_0/domain/2g2sA00,https://www.rcsb.org/structure/2G2S
+2hp0B02,2hp0,B,3.30.1330.120,:2-methylcitrate dehydratase PrpD,3.30.1330,3,30,1330,120,125.0,1.5,13,https://www.cathdb.info/version/v4_3_0/domain/2hp0B02,https://www.rcsb.org/structure/2HP0
+1nxuA02,1nxu,A,3.30.1370.60,":Malate/L-lactate/L-sulpholactate dehydrogenase, NADPH binding domain",3.30.1370,3,30,1370,60,143.0,1.8,9,https://www.cathdb.info/version/v4_3_0/domain/1nxuA02,https://www.rcsb.org/structure/1NXU
+1o9iA02,1o9i,A,3.30.1530.10,":manganese catalase, domain 2, chain A",3.30.1530,3,30,1530,10,63.0,1.33,18,https://www.cathdb.info/version/v4_3_0/domain/1o9iA02,https://www.rcsb.org/structure/1O9I
+7xfdB01,7xfd,B,3.30.1950.10,:wza like domain,3.30.1950,3,30,1950,10,77.0,2.2,34,https://www.cathdb.info/version/v4_3_0/domain/7xfdB01,https://www.rcsb.org/structure/7XFD
+1m0wB04,1m0w,B,3.40.50.1760,":Glutathione synthase, substrate-binding domain superfamily, eukaryotic",3.40.50,3,40,50,1760,128.0,1.8,21,https://www.cathdb.info/version/v4_3_0/domain/1m0wB04,https://www.rcsb.org/structure/1M0W
+6kp5A00,6kp5,A,3.40.50.2020,:,3.40.50,3,40,50,2020,139.0,1.1,162,https://www.cathdb.info/version/v4_3_0/domain/6kp5A00,https://www.rcsb.org/structure/6KP5
+6pnvA01,6pnv,A,3.40.50.10070,":TolB, N-terminal domain",3.40.50,3,40,50,10070,145.0,1.42,21,https://www.cathdb.info/version/v4_3_0/domain/6pnvA01,https://www.rcsb.org/structure/6PNV
+2vdwB02,2vdw,B,3.40.50.11680,":Poxvirus mRNA capping enzyme, small subunit",3.40.50,3,40,50,11680,127.0,2.7,12,https://www.cathdb.info/version/v4_3_0/domain/2vdwB02,https://www.rcsb.org/structure/2VDW
+4cngB00,4cng,B,3.40.1280.10,":SPOUT methyltransferase, trefoil knot domain",3.40.1280,3,40,1280,10,148.0,1.1,60,https://www.cathdb.info/version/v4_3_0/domain/4cngB00,https://www.rcsb.org/structure/4CNG
+4qboA00,4qbo,A,3.40.1350.10,:,3.40.1350,3,40,1350,10,92.0,1.3,110,https://www.cathdb.info/version/v4_3_0/domain/4qboA00,https://www.rcsb.org/structure/4QBO
+3p1yD01,3p1y,D,3.40.1350.150,:,3.40.1350,3,40,1350,150,137.0,2.05,13,https://www.cathdb.info/version/v4_3_0/domain/3p1yD01,https://www.rcsb.org/structure/3P1Y
+6i44A02,6i44,A,3.50.4.10,:Hepatocyte Growth Factor,3.50.4,3,50,4,10,80.0,1.36,173,https://www.cathdb.info/version/v4_3_0/domain/6i44A02,https://www.rcsb.org/structure/6I44
+4ipuC00,4ipu,C,3.55.40.10,:minor pseudopilin epsh domain,3.55.40,3,55,40,10,135.0,1.35,10,https://www.cathdb.info/version/v4_3_0/domain/4ipuC00,https://www.rcsb.org/structure/4IPU
+1j0pA00,1j0p,A,3.90.10.10,:Cytochrome C3,3.90.10,3,90,10,10,108.0,0.91,96,https://www.cathdb.info/version/v4_3_0/domain/1j0pA00,https://www.rcsb.org/structure/1J0P
+4wpgA02,4wpg,A,3.90.25.10,":UDP-galactose 4-epimerase, domain 1",3.90.25,3,90,25,10,78.0,1.1,440,https://www.cathdb.info/version/v4_3_0/domain/4wpgA02,https://www.rcsb.org/structure/4WPG
+5mteB00,5mte,B,3.90.45.10,:Peptide deformylase,3.90.45,3,90,45,10,137.0,1.4,13,https://www.cathdb.info/version/v4_3_0/domain/5mteB00,https://www.rcsb.org/structure/5MTE
+3n75A04,3n75,A,3.90.100.10,":Orn/Lys/Arg decarboxylase, C-terminal domain",3.90.100,3,90,100,10,117.0,2.0,28,https://www.cathdb.info/version/v4_3_0/domain/3n75A04,https://www.rcsb.org/structure/3N75
+4d3tA01,4d3t,A,3.90.340.10,":Nitric Oxide Synthase; Chain A, domain 1",3.90.340,3,90,340,10,131.0,1.55,93,https://www.cathdb.info/version/v4_3_0/domain/4d3tA01,https://www.rcsb.org/structure/4D3T
+6i4eA03,6i4e,A,3.90.640.10,":ATPase, substrate binding domain, subdomain 4",3.90.640,3,90,640,10,92.0,1.22,719,https://www.cathdb.info/version/v4_3_0/domain/6i4eA03,https://www.rcsb.org/structure/6I4E
+3e9vA00,3e9v,A,3.90.640.90,":Anti-proliferative protein, N-terminal domain",3.90.640,3,90,640,90,118.0,1.7,10,https://www.cathdb.info/version/v4_3_0/domain/3e9vA00,https://www.rcsb.org/structure/3E9V
+1dzfA02,1dzf,A,3.90.940.20,:RPB5-like RNA polymerase subunit,3.90.940,3,90,940,20,73.0,1.9,98,https://www.cathdb.info/version/v4_3_0/domain/1dzfA02,https://www.rcsb.org/structure/1DZF
+3e0jB00,3e0j,B,3.90.1030.20,":DNA polymerase delta, p66 (Cdc27) subunit, wHTH domain",3.90.1030,3,90,1030,20,143.0,3.0,5,https://www.cathdb.info/version/v4_3_0/domain/3e0jB00,https://www.rcsb.org/structure/3E0J
+1kafE00,1kaf,E,3.90.1150.20,":Transcription regulator MotA, C-terminal domain",3.90.1150,3,90,1150,20,103.0,1.6,10,https://www.cathdb.info/version/v4_3_0/domain/1kafE00,https://www.rcsb.org/structure/1KAF
+1n62E01,1n62,E,3.90.1170.50,":Aldehyde oxidase/xanthine dehydrogenase, a/b hammerhead",3.90.1170,3,90,1170,50,131.0,1.09,135,https://www.cathdb.info/version/v4_3_0/domain/1n62E01,https://www.rcsb.org/structure/1N62
+2y2mA01,2y2m,A,3.90.1310.40,:,3.90.1310,3,90,1310,40,91.0,1.62,25,https://www.cathdb.info/version/v4_3_0/domain/2y2mA01,https://www.rcsb.org/structure/2Y2M
+8cgkk01,8cgk,k,3.100.10.10,:,3.100.10,3,100,10,10,73.0,1.64,198,https://www.cathdb.info/version/v4_3_0/domain/8cgkk01,https://www.rcsb.org/structure/8CGK
+5b1aI00,5b1a,I,4.10.93.10,:Mitochondrial cytochrome c oxidase subunit VIc/VIIs,4.10.93,4,10,93,10,72.0,1.5,99,https://www.cathdb.info/version/v4_3_0/domain/5b1aI00,https://www.rcsb.org/structure/5B1A
+3gw6A01,3gw6,A,4.10.1090.10,":Endosialidase, domain 4",4.10.1090,4,10,1090,10,118.0,2.6,6,https://www.cathdb.info/version/v4_3_0/domain/3gw6A01,https://www.rcsb.org/structure/3GW6
+3gwcH02,3gwc,H,6.10.140.450,:,6.10.140,6,10,140,450,62.0,1.9,22,https://www.cathdb.info/version/v4_3_0/domain/3gwcH02,https://www.rcsb.org/structure/3GWC
+4btbA01,4btb,A,6.10.140.1460,:,6.10.140,6,10,140,1460,90.0,1.9,9,https://www.cathdb.info/version/v4_3_0/domain/4btbA01,https://www.rcsb.org/structure/4BTB
+4ypoB02,4ypo,B,6.10.240.10,:,6.10.240,6,10,240,10,146.0,1.0,46,https://www.cathdb.info/version/v4_3_0/domain/4ypoB02,https://www.rcsb.org/structure/4YPO
+1pgbA00,1PGA,A,3.10.20.10,:,
+1cisA00,7A1H,A,3.30.10.10,:,
+1ubqA00,1UBQ,A,3.10.20.90,:,
